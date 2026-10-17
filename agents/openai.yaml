@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片物料生成"
+  short_description: "先问需求，再按艺术海报、图片分解、IP周边、节日海报或照片手绘生成图片"
+  default_prompt: "请使用 $image-material-studio，先了解我想做什么图片物料，再推荐适合的方案并按我的需求生成。"
